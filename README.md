@@ -9,5 +9,6 @@
 ![image](https://github.com/ub0329/AR-Face-app/assets/112606772/df5933fc-f5bb-4e58-805a-2f5bbd59c1fe)
 
 ## 영상
+https://youtu.be/3wJ2AHB5Fsk
 
 
